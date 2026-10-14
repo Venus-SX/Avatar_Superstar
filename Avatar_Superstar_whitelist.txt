@@ -1,7 +1,7 @@
 # One entry per line. Blank lines and #comments are ignored.
 # Edit on GitHub, commit, and the live build picks it up (see cache note in README).
 
-THESHUSHU
+THE SHUSHU
 Niko*
 VenusSX
 cpaustin2000
