@@ -1,0 +1,6 @@
+# One entry per line. Blank lines and #comments are ignored.
+# Edit on GitHub, commit, and the live build picks it up (see cache note in README).
+
+alice_01
+bob_the_builder
+7f3d9a2e-user-id
